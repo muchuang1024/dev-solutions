@@ -4,6 +4,7 @@
 
 ### 技术栈
 
+- [x] linux
 - [x] mysql
 - [ ] php
 - [ ] nginx
