@@ -8,6 +8,6 @@
 * [x] mysql
 * [ ] php
 * [ ] nginx
-* [ ] php-fpm
-* [ ] redis
+* [x] php-fpm
+* [x] redis
 
