@@ -7,7 +7,7 @@
 * [x] linux
 * [x] mysql
 * [ ] php
-* [ ] nginx
+* [x] nginx
 * [x] php-fpm
 * [x] redis
 
