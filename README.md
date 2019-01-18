@@ -7,17 +7,17 @@
 
 ----------------------------
 
-# Linux
+## Linux
 
 [解决linux服务器磁盘空间占满](https://github.com/caijinlin/dev-solutions/issues/4)
 
 [常用运维命令](https://gist.github.com/caijinlin/9a0a0548a29b24f5645501985e00d9b3)
 
-# Nginx
+## Nginx
 
 [解决fastcgi_cache 不生效问题 ](https://github.com/caijinlin/dev-solutions/issues/11)
 
-# Mysql
+## Mysql
 
 [解决emoji字符乱码](https://github.com/caijinlin/dev-solutions/issues/13)
 
@@ -29,15 +29,15 @@
 
 [高并发select语句处理](https://github.com/caijinlin/dev-solutions/issues/8)
 
-# Redis
+## Redis
 
 [使用锁的正确姿势](https://github.com/caijinlin/dev-solutions/issues/9)
 
-# PHP
+## PHP
 
 [排查PHP-FPM占用CPU过高](https://github.com/caijinlin/dev-solutions/issues/6)
 
-# Python
+## Python
 
 [selenium 点击hidden元素](https://github.com/caijinlin/dev-solutions/issues/14)
 
