@@ -29,6 +29,8 @@
 
 [高并发select语句处理](https://github.com/caijinlin/dev-solutions/issues/8)
 
+[Table 'mysql.host' doesn't exist](https://github.com/caijinlin/dev-solutions/issues/16)
+
 ## Redis
 
 [使用锁的正确姿势](https://github.com/caijinlin/dev-solutions/issues/9)
