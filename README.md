@@ -45,6 +45,9 @@
 
 [解决mac下pip安装权限的问题](https://github.com/caijinlin/dev-solutions/issues/15)
 
+## Git
+
+[Permission denied (publickey)](https://github.com/caijinlin/dev-solutions/issues/12)
 
 ## ❗️ 勘误
 
