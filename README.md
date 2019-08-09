@@ -49,6 +49,10 @@
 
 [Permission denied (publickey)](https://github.com/caijinlin/dev-solutions/issues/12)
 
+## Thrift
+
+[not enough arguments in call to oprot.Flush](https://github.com/caijinlin/dev-solutions/issues/17)
+
 ## ❗️ 勘误
 
 + 如果在文章中发现了问题，欢迎提交 PR 或者 issue，欢迎大神们多多指点🙏🙏🙏
