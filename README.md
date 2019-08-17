@@ -47,7 +47,7 @@
 
 ## Go
 
-[unrecognized import path "golang.org/x/sys"](https://github.com/caijinlin/dev-solutions/issues/17)
+[unrecognized import path "golang.org/x/sys"](https://github.com/caijinlin/dev-solutions/issues/18)
 
 
 ## Git
