@@ -45,6 +45,11 @@
 
 [解决mac下pip安装权限的问题](https://github.com/caijinlin/dev-solutions/issues/15)
 
+## Go
+
+[unrecognized import path "golang.org/x/sys"](https://github.com/caijinlin/dev-solutions/issues/17)
+
+
 ## Git
 
 [Permission denied (publickey)](https://github.com/caijinlin/dev-solutions/issues/12)
