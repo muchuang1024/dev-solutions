@@ -49,6 +49,8 @@
 
 [pip Could not install packages due to an EnvironmentError](https://github.com/caijinlin/dev-solutions/issues/20)
 
+[cannot import name lzma](https://github.com/caijinlin/dev-solutions/issues/21)
+
 ## Go
 
 [unrecognized import path "golang.org/x/sys"](https://github.com/caijinlin/dev-solutions/issues/18)
