@@ -47,6 +47,8 @@
 
 [It is a distutils installed project](https://github.com/caijinlin/dev-solutions/issues/19)
 
+[pip Could not install packages due to an EnvironmentError](https://github.com/caijinlin/dev-solutions/issues/20)
+
 ## Go
 
 [unrecognized import path "golang.org/x/sys"](https://github.com/caijinlin/dev-solutions/issues/18)
