@@ -45,6 +45,8 @@
 
 [解决mac下pip安装权限的问题](https://github.com/caijinlin/dev-solutions/issues/15)
 
+[It is a distutils installed project](https://github.com/caijinlin/dev-solutions/issues/19)
+
 ## Go
 
 [unrecognized import path "golang.org/x/sys"](https://github.com/caijinlin/dev-solutions/issues/18)
