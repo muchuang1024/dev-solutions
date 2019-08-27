@@ -23,13 +23,15 @@
 
 [排查IOPS使用率高](https://github.com/caijinlin/dev-solutions/issues/5)
 
-[SQLSTATE[HY000] [2002] No such file or directory](https://github.com/caijinlin/dev-solutions/issues/3)
+[高并发select语句处理](https://github.com/caijinlin/dev-solutions/issues/8)
 
 [查看当前使用的配置文件my.cnf](https://github.com/caijinlin/dev-solutions/issues/2)
 
-[高并发select语句处理](https://github.com/caijinlin/dev-solutions/issues/8)
+[SQLSTATE[HY000] No such file or directory](https://github.com/caijinlin/dev-solutions/issues/3)
 
 [Table 'mysql.host' doesn't exist](https://github.com/caijinlin/dev-solutions/issues/16)
+
+[Host is not allowed to connect to this MySQL server](https://github.com/caijinlin/dev-solutions/issues/22) 
 
 ## Redis
 
